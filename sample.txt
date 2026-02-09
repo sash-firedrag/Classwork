@@ -1,2 +1,6 @@
 Hello Git 
+<<<<<<< HEAD
 This is branch1 
+=======
+This is branch2 
+>>>>>>> branch2
