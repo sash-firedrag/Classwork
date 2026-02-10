@@ -4,8 +4,8 @@ This is branch1
 =======
 This is branch2 
 <<<<<<< HEAD
->>>>>>> branch2
-????????? 
+>>>>>>> branch1
+மகிழ்ச்சி 
 =======
-?????? 
+नमस्ते
 >>>>>>> branch2
